@@ -29,7 +29,7 @@ RESET = "\033[0m"
 
 def title():
     print(VERDE + banner + RESET)
-    print(VERDE + "Distributed DDOS Attack" + RESET)
+    print(VERDE + "DDOS Maluco" + RESET)
     print(VERDE + "-" * 67 + RESET)
     print("Author : flokka")
     print("Discord : https://discord.gg/realpsicos")
